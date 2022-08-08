@@ -1,0 +1,1 @@
+Hey there! Party Hardy is a platform for organizing and hosting parties. It was created by William McGonagle in just a week as a release to get away from work. Development on the app began on August 4th, 2022, but William had been thinking of building it for years. If you have any questions about the app, feel free to contact me on Twitter (@willthecoder).
